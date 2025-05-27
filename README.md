@@ -86,6 +86,9 @@ Current Work:
 Mission:
 > To design technologies that heal, not harm — restoring digital ecosystems through ethical code, not control.
 
+
+https://github.com/EDAO-TECH/EDAO-TECH
+
 Contact:
 - 📩 support@selfix.pro
 - 🌐 [https://selfix.pro](https://selfix.pro)
