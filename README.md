@@ -1,3 +1,28 @@
+
+Teng Li  
+Founder of SELFIX — The Digital Healing Engine  
+Author of SmartLicense-X™ (PCT/US25/20835)  
+Architect of Trust-Law AI Systems | Self-Researcher
+
+📜 On May 28, 2025, I released SmartLicense-X™ into the public domain as ethical prior art.  
+This invention governs AI healing, surveillance prevention, and karmic digital protection.
+
+I chose to give it away — not because it had no value, but because it had too much.
+
+This system is now protected under SmartLicense-X v1.0 and DAO governance, and forms the heart of the SELFIX trust protocol.
+
+🎨 Guardian of Forgiveness NFTs were created to record this act and support the DAO’s healing mission.
+
+📂 View the full release here:  
+[https://github.com/EDAO-TECH/smartlicense-x-public-release](https://github.com/EDAO-TECH/smartlicense-x-public-release)
+
+🌐 Website: https://selfix.pro  
+📩 Contact: support@selfix.pro  
+👜 Wallet: 0x7268aa99784d84c41ffed420b3730efbc556b8f1
+
+
+
+
 📜 Digital ID: Teng Zhi Li  
 🧠 Self-Researcher | Technologist | Inventor
 
