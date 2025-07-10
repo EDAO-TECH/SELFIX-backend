@@ -1,0 +1,3 @@
+[console_scripts]
+selfix = selfix.cli.selfix:main
+

@@ -1,0 +1,25 @@
+[Unit]
+Description=SELFIX CyberDefense Stack
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/SELFIX/start_smart.sh
+WorkingDirectory=/opt/SELFIX
+
+# Logging
+StandardOutput=file:/opt/SELFIX/logs/selfix_service.log
+StandardError=file:/opt/SELFIX/logs/selfix_service.err
+
+# Restart behavior
+Restart=on-failure
+RestartSec=5
+
+# (Optional) Run as root for now
+User=root
+
+# (Optional) Safety timeout to prevent hanging on shutdown
+TimeoutStopSec=15
+
+[Install]
+WantedBy=multi-user.target

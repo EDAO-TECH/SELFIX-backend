@@ -1,0 +1,22 @@
+{
+    "timestamp": "2025-06-18T22:15:10.031273",
+    "components": {
+        "system_status": "OK",
+        "vault_integrity": "ERROR: module 'vault_checker' has no attribute 'main'",
+        "karma_check": "ERROR: [Errno 2] No such file or directory: '/opt/SELFIX/scripts/karma_tester.py'",
+        "healing_verification": "ERROR: module 'healing_verifier' has no attribute 'run_verifier'",
+        "recent_healing_logs": [
+            "AttributeError: 'dict' object has no attribute 'append'\n",
+            "\n",
+            "During handling of the above exception, another exception occurred:\n",
+            "\n",
+            "Traceback (most recent call last):\n",
+            "  File \"/opt/SELFIX/local_ai.py\", line 63, in <module>\n",
+            "    log_phase(f\"\u274c Local AI exception: {str(e)}\")\n",
+            "  File \"/opt/SELFIX/local_ai.py\", line 30, in log_phase\n",
+            "    existing.append(log_entry)\n",
+            "AttributeError: 'dict' object has no attribute 'append'\n"
+        ]
+    },
+    "summary": ""
+}

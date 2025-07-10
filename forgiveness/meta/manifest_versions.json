@@ -1,0 +1,14 @@
+{
+  "healing_manager.py": [
+    {
+      "original_path": "selfix/engine/healing_manager.py",
+      "hash": "909c55ed6b0467a9043cbc7138137ea0695e6c48c7d93368eb064d616e78b725",
+      "executed": true,
+      "qc_passed": true,
+      "timestamp": "2025-07-10T16:21:58.028282",
+      "forgiven_by": "FOUNDER TENG ZHI LI",
+      "reason": "Critical healing logic for restoring broken infrastructure. Verified and sealed for trust",
+      "alias": "healing_manager.py"
+    }
+  ]
+}

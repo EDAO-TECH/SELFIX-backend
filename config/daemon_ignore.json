@@ -1,0 +1,7 @@
+[
+  "/opt/SELFIX/data/healing_log.json",
+  "/opt/SELFIX/logs/entropy_events.log",
+  "/opt/SELFIX/logs/healing_daemon.log",
+  "/opt/SELFIX/logs/uvicorn_cleanup.log",
+  "/opt/SELFIX/venv/"
+]

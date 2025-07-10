@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SELFIX Mini Monitor</title>
+  <style>
+    body { font-family: sans-serif; margin: 20px; }
+    button { margin: 5px; }
+    #chatLog { border: 1px solid #ccc; padding: 10px; height: 200px; overflow-y: scroll; }
+    #health, #scanRes { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>SELFIX Mini Monitor</h1>
+  <button onclick="runHealth()">Prehealth Check</button>
+  <button onclick="runScan()">Run Scan</button>
+
+  <h2>Health</h2>
+  <div id="health"></div>
+
+  <h2>Scan Results</h2>
+  <div id="scanRes"></div>
+
+  <h2>AI Chat</h2>
+  <div id="chatLog"></div>
+  <input id="chatIn" type="text" placeholder="Ask AI..." style="width: 80%;"/>
+  <button onclick="sendChat()">Send</button>
+
+  <script>
+    async function runHealth() {
+      const r = await fetch('/api/prehealth');
+      const d = await r.json();
+      document.getElementById('health').textContent = JSON.stringify(d, null, 2);
+    }
+    async function runScan() {
+      document.getElementById('scanRes').textContent = 'Scanning...';
+      const r = await fetch('/api/scan');
+      const d = await r.json();
+      document.getElementById('scanRes').textContent = JSON.stringify(d, null, 2);
+    }
+    async function sendChat() {
+      const msg = document.getElementById('chatIn').value;
+      if (!msg) return;
+      document.getElementById('chatLog').textContent += 'You: ' + msg + '\n';
+      const r = await fetch('/api/chat', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({message: msg})
+      });
+      const d = await r.json();
+      document.getElementById('chatLog').textContent += 'AI: ' + d.response + '\n';
+      document.getElementById('chatIn').value = '';
+    }
+  </script>
+</body>
+</html>

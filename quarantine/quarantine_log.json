@@ -1,0 +1,8 @@
+[
+  {
+    "original_path": "healing_modules/backdoor.sh",
+    "quarantined_as": "20250622_101151_backdoor.sh",
+    "reason": "signature_match",
+    "timestamp": "20250622_101151"
+  }
+]

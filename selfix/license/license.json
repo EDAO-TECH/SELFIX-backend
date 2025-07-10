@@ -1,0 +1,16 @@
+import json
+import os
+
+LICENSE_FILE = "/opt/SELFIX/license/license.json"
+
+def load_license():
+    if not os.path.exists(LICENSE_FILE):
+        return {"tier": "Free", "status": "Missing"}
+    with open(LICENSE_FILE) as f:
+        return json.load(f)
+
+def validate():
+    lic = load_license()
+    if lic.get("status") != "Active":
+        return f"❌ Invalid or expired license"
+    return f"✅ License OK — Tier: {lic['tier']}"

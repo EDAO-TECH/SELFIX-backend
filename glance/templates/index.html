@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SELFIX Control Panel</title>
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+    <style>
+        body { font-family: Arial; margin: 2em; }
+        button { margin: 0.5em; padding: 0.5em 1em; }
+        #chat-box { border: 1px solid #ccc; padding: 1em; max-width: 400px; }
+        .chat-msg { margin: 0.5em 0; }
+    </style>
+</head>
+<body>
+    <h1>SELFIX HQ Control</h1>
+
+    <h3>Seeder Agent</h3>
+    <button onclick="toggleSeeder('on')">Turn ON</button>
+    <button onclick="toggleSeeder('off')">Turn OFF</button>
+    <p id="seeder-status">Status: Unknown</p>
+
+    <hr>
+
+    <h3>AI Chat</h3>
+    <div id="chat-box">
+        <div id="messages"></div>
+        <input type="text" id="user-input" placeholder="Say something..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</body>
+</html>

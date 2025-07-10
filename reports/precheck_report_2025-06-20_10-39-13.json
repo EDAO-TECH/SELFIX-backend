@@ -1,0 +1,22 @@
+{
+    "timestamp": "2025-06-20T10:39:13.541200",
+    "components": {
+        "system_status": "OK",
+        "vault_integrity": "ERROR: module 'vault_checker' has no attribute 'main'",
+        "karma_check": "ERROR: [Errno 2] No such file or directory: '/opt/SELFIX/scripts/karma_tester.py'",
+        "healing_verification": "ERROR: module 'healing_verifier' has no attribute 'run_verifier'",
+        "recent_healing_logs": [
+            "    existing.append(log_entry)\n",
+            "AttributeError: 'dict' object has no attribute 'append'\n",
+            "Traceback (most recent call last):\n",
+            "  File \"/opt/SELFIX/healing_loop.py\", line 6, in <module>\n",
+            "    from karma_guard import update_karma, get_karma\n",
+            "  File \"/opt/SELFIX/karma_guard.py\", line 1, in <module>\n",
+            "    from app.core.healing_utils import self_healing\n",
+            "  File \"/opt/SELFIX/app/__init__.py\", line 1, in <module>\n",
+            "    from flask import Flask\n",
+            "ModuleNotFoundError: No module named 'flask'\n"
+        ]
+    },
+    "summary": ""
+}

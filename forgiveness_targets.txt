@@ -1,0 +1,4 @@
+selfix/engine/healing_manager.py
+selfix/scripts/selfix_heal.py
+selfix/configs/ai_policy.json
+selfix/plugins/plugin_custom_responder.py

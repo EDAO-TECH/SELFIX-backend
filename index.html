@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SELFIX Web Console</title>
+  <style>
+    body { font-family: sans-serif; background: #101820; color: #f0f0f0; padding: 2rem; }
+    input, button { padding: 0.5rem; font-size: 1rem; }
+    #chatlog { margin-top: 2rem; background: #202830; padding: 1rem; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>SELFIX Web Console</h1>
+  <p>Status: <span id="sysStatus">Loading...</span></p>
+  
+  <hr />
+  <h2>Ask SELFIX</h2>
+  <input id="message" placeholder="Enter your question" />
+  <button onclick="sendMessage()">Send</button>
+
+  <div id="chatlog"></div>
+
+  <script>
+    async function loadStatus() {
+      const res = await fetch('/status');
+      const json = await res.json();
+      document.getElementById('sysStatus').innerText = json.system_mode || "N/A";
+    }
+
+    async function sendMessage() {
+      const msg = document.getElementById('message').value;
+      const res = await fetch('/chat', {
+        method: 'POST',
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: msg })
+      });
+      const json = await res.json();
+      document.getElementById('chatlog').innerHTML += `<p><b>You:</b> ${msg}<br><b>SELFIX:</b> ${json.reply}</p>`;
+      document.getElementById('message').value = "";
+    }
+
+    loadStatus();
+  </script>
+</body>
+</html>
