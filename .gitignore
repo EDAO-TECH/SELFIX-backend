@@ -24,3 +24,4 @@ node_modules/
 .env.save
 .env.save.1
 .env
+.env
