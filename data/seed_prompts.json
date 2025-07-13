@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Landing Page",
+    "prompt": "Create a clean responsive landing page with TailwindCSS including hero, features, and footer."
+  },
+  {
+    "label": "Portfolio",
+    "prompt": "Generate a personal portfolio site in HTML and Tailwind with project cards and a contact form."
+  },
+  {
+    "label": "Pricing Page",
+    "prompt": "Build a responsive pricing page layout with three pricing tiers and feature comparison."
+  }
+]

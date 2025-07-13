@@ -1,3 +1,5 @@
 {
-  "hq_url": "http://127.0.0.1:5000/api/seeder/status"
+  "mode": "local",
+  "ping_hq": false,
+  "hq_url": "https://hq.selfix.ai/api/seeder/status"
 }

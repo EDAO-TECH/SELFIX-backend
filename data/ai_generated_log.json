@@ -1,0 +1,87 @@
+[
+  {
+    "script_name": "idea:_improve_karma_verification_phase\n.py",
+    "source_idea": "improve_karma_phase.md",
+    "created_at": "2025-05-25T20:49:52.995613"
+  },
+  {
+    "script_name": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "source_idea": "status_cli_tool.md",
+    "created_at": "2025-05-25T20:54:22.192242"
+  },
+  {
+    "script_name": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "source_idea": "status_cli_tool.md",
+    "created_at": "2025-05-25T22:14:45.003851"
+  },
+  {
+    "script_name": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "source_idea": "improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state.md",
+    "created_at": "2025-05-25T22:14:45.004326"
+  },
+  {
+    "script_name": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "source_idea": "build_module_to_auto-clear_dns_cache_on_entropy_trigger.md",
+    "created_at": "2025-05-25T22:21:12.094776"
+  },
+  {
+    "script_name": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "source_idea": "support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input.md",
+    "created_at": "2025-05-25T22:38:30.435347"
+  },
+  {
+    "script_name": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "source_idea": "create_auto-update_checker_for_healing_modules.md",
+    "created_at": "2025-05-25T22:45:55.424001"
+  },
+  {
+    "script_name": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "source_idea": "create_a_backup_scheduler_for_critical_system_configs.md",
+    "created_at": "2025-05-25T22:48:27.683373"
+  },
+  {
+    "script_name": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "source_idea": "create_cli_to_list_all_sandboxed_ideas.md",
+    "created_at": "2025-05-25T23:08:14.134228"
+  },
+  {
+    "script_name": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "source_idea": "generate_golden_vault_for_healing_modules.md",
+    "created_at": "2025-05-26T00:08:46.913434"
+  },
+  {
+    "script_name": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "source_idea": "regenerate_golden_archive_with_clean_manifest.md",
+    "created_at": "2025-05-26T00:12:47.164766"
+  },
+  {
+    "script_name": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "source_idea": "create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest.md",
+    "created_at": "2025-05-26T00:14:47.304410"
+  },
+  {
+    "script_name": "idea:_status\n.py",
+    "source_idea": "status.md",
+    "created_at": "2025-05-26T00:29:57.943332"
+  },
+  {
+    "script_name": "idea:_fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust\n.py",
+    "source_idea": "fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust.md",
+    "created_at": "2025-05-26T01:01:49.509074"
+  },
+  {
+    "script_name": "idea:_regenerate_vault_manifest_after_cleaning_filenames_in_book_of_forgiveness\n.py",
+    "source_idea": "regenerate_vault_manifest_after_cleaning_filenames_in_book_of_forgiveness.md",
+    "created_at": "2025-05-26T01:19:50.422486"
+  },
+  {
+    "script_name": "idea:_upgrade_selfix_cli_to_support_idea_heal_status_task_with_delegate_fallback\n.py",
+    "source_idea": "upgrade_selfix_cli_to_support_idea_heal_status_task_with_delegate_fallback.md",
+    "created_at": "2025-05-26T01:33:21.155984"
+  },
+  {
+    "script_name": "idea:_add_karma-based_escalation_logic_to_agent002:_if_repeated_healing_failures_drop_karma_below_-3,_generate_a_self-improvement_task_for_rep_ai_and_submit_to_selfix_companion\n.py",
+    "source_idea": "add_karma-based_escalation_logic_to_agent002:_if_repeated_healing_failures_drop_karma_below_-3,_generate_a_self-improvement_task_for_rep_ai_and_submit_to_selfix_companion.md",
+    "created_at": "2025-05-26T01:51:22.025004"
+  }
+]

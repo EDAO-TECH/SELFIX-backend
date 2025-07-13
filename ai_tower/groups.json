@@ -1,0 +1,5 @@
+{
+  "GroupA": ["Agent001", "Agent002", "Agent003"],
+  "GroupB": ["Agent004", "Agent007", "Agent008"],
+  "GroupC": ["Agent005", "Agent006", "Agent009"]
+}

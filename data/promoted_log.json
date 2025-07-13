@@ -1,0 +1,890 @@
+[
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T20:13:10.293288"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:14:45.062949"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:14:45.063279"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:14:45.063446"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:14:45.063589"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:21:12.150315"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:21:12.150791"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:21:12.151303"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:21:12.151586"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:21:12.151991"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.493681"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.494104"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.494551"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.494778"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.495006"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:38:30.495430"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.486493"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.486777"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.486955"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.487133"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.487355"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.487558"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:45:55.487754"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.732695"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.732899"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733101"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733285"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733435"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733589"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733746"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T22:48:27.733906"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.180632"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182048"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182238"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182382"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182553"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182684"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.182922"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.183071"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-25T23:08:14.183203"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.970197"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.970643"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.970887"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.971088"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.971298"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.971476"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.971704"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.971910"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.972111"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:08:46.974240"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.218555"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.218754"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.218917"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219058"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219197"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219325"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219492"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219650"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219775"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.219936"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:12:47.220137"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.359971"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.360232"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.360385"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.360560"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.360736"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.360906"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361079"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361251"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361422"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361587"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361756"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:14:47.361932"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.997348"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.997551"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.997986"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.998394"
+  },
+  {
+    "module": "idea:_status\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.998585"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.998799"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.999027"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.999457"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:57.999900"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:58.000114"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:58.000482"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:58.000680"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T00:29:58.000877"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.562390"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.562588"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.562774"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.562967"
+  },
+  {
+    "module": "idea:_status\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.563126"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.563282"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.563461"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.563643"
+  },
+  {
+    "module": "idea:_fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.563827"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.564044"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.564222"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.564426"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.564618"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:01:49.564823"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.477525"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.477710"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.477890"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478060"
+  },
+  {
+    "module": "idea:_status\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478186"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478320"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478451"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478594"
+  },
+  {
+    "module": "idea:_fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478730"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.478886"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.479022"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.479149"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.479277"
+  },
+  {
+    "module": "idea:_regenerate_vault_manifest_after_cleaning_filenames_in_book_of_forgiveness\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.479414"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:19:50.479560"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.210306"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.210561"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.210729"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.210873"
+  },
+  {
+    "module": "idea:_status\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.210996"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211129"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211272"
+  },
+  {
+    "module": "idea:_upgrade_selfix_cli_to_support_idea_heal_status_task_with_delegate_fallback\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211393"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211534"
+  },
+  {
+    "module": "idea:_fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211676"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.211857"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.212023"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.212177"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.212366"
+  },
+  {
+    "module": "idea:_regenerate_vault_manifest_after_cleaning_filenames_in_book_of_forgiveness\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.212541"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:33:21.212719"
+  },
+  {
+    "module": "idea:_support_'selfix_idea'_as_alias_for_'--task',_to_accept_plain_english_input\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.084936"
+  },
+  {
+    "module": "idea:_improve_karma_verification_phase\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.085225"
+  },
+  {
+    "module": "idea:_create_a_clean_healing_archive_by_compressing_all_promoted_healing_modules_and_saving_them_in_book_of_forgiveness,_then_generate_a_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.085452"
+  },
+  {
+    "module": "idea:_create_auto-update_checker_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.085665"
+  },
+  {
+    "module": "idea:_status\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.085909"
+  },
+  {
+    "module": "idea:_create_cli_to_list_all_sandboxed_ideas\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.086138"
+  },
+  {
+    "module": "idea:_build_module_to_auto-clear_dns_cache_on_entropy_trigger\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.086381"
+  },
+  {
+    "module": "idea:_upgrade_selfix_cli_to_support_idea_heal_status_task_with_delegate_fallback\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.086581"
+  },
+  {
+    "module": "idea:_generate_golden_vault_for_healing_modules\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.086838"
+  },
+  {
+    "module": "idea:_fix_and_regenerate_system_status_module_to_display_healing_mode,_local_ai_phase,_and_seeder_trust\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.087050"
+  },
+  {
+    "module": "idea:_create_a_backup_scheduler_for_critical_system_configs\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.087291"
+  },
+  {
+    "module": "entropy_fix_cpu.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.087519"
+  },
+  {
+    "module": "idea:_regenerate_golden_archive_with_clean_manifest\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.087749"
+  },
+  {
+    "module": "idea:_add_karma-based_escalation_logic_to_agent002:_if_repeated_healing_failures_drop_karma_below_-3,_generate_a_self-improvement_task_for_rep_ai_and_submit_to_selfix_companion\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.087948"
+  },
+  {
+    "module": "idea:_cli_tool_to_show_system_status_including_local_ai_and_seeder_agent\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.088147"
+  },
+  {
+    "module": "idea:_regenerate_vault_manifest_after_cleaning_filenames_in_book_of_forgiveness\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.088369"
+  },
+  {
+    "module": "idea:_improve_seed_agent_to_monitor_system_uptime_and_detect_idle_state\n.py",
+    "score": 100,
+    "from_test": "test_cpu_fix.json",
+    "promoted_at": "2025-05-26T01:51:22.088613"
+  }
+]

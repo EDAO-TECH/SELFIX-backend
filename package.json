@@ -1,6 +1,30 @@
 {
+  "name": "selfix",
+  "version": "1.0.0",
+  "description": "Powered by EDAO-TECH | Licensed under Nevermissed Licensed Trust™",
+  "main": "stripeService.js",
+  "scripts": {
+    "dev": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "dependencies": {
     "@stripe/stripe-js": "^7.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.5",
+    "stripe": "^18.3.0",
     "unified": "^11.0.5"
-  }
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

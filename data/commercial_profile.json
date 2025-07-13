@@ -1,0 +1,11 @@
+{
+  "customer": "acme_corp",
+  "contact_email": "it@acme.com",
+  "system_id": "d5efb4e6-67bf-405e-b8e6-20274377bff5",
+  "install_time": "2025-05-25T20:27:31.718376",
+  "os": "Linux",
+  "release": "5.15.0-140-generic",
+  "version": "#150-Ubuntu SMP Sat Apr 12 06:00:09 UTC 2025",
+  "machine": "x86_64",
+  "node": "yinyang"
+}

@@ -1,0 +1,65 @@
+{
+  "Agent001": {
+    "name": "Seeder Agent",
+    "type": "seed-agent",
+    "script": "agents/seeder_agent.py",
+    "description": "Feeds prompts to mission context",
+    "status": "active"
+  },
+  "Agent002": {
+    "name": "Frontend Builder",
+    "type": "builder-agent",
+    "script": "agents/frontend_builder.py",
+    "description": "Generates responsive frontend from prompt",
+    "status": "idle"
+  },
+  "Agent003": {
+    "name": "Apps Engineer",
+    "type": "builder-agent",
+    "script": "agents/apps_engineer.py",
+    "description": "Builds app components from context",
+    "status": "idle"
+  },
+  "Agent004": {
+    "name": "Customer Operator",
+    "type": "cusop-agent",
+    "script": "agents/customer_operator.py",
+    "description": "Handles inquiries about tokens, NFTs, and support",
+    "status": "idle"
+  },
+  "Agent005": {
+    "name": "Cyber Antivirus",
+    "type": "defender-agent",
+    "script": "agents/cyber_antivirus.py",
+    "description": "Scans and protects system integrity",
+    "status": "idle"
+  },
+  "Agent006": {
+    "name": "Academic Researcher",
+    "type": "researcher-agent",
+    "script": "agents/academic_researcher.py",
+    "description": "Enriches context with scholarly sources",
+    "status": "idle"
+  },
+  "Agent007": {
+    "name": "Marketing Strategist",
+    "type": "strategist-agent",
+    "script": "agents/marketing_promoter.py",
+    "description": "Drives SELFIX brand visibility and campaigns",
+    "status": "idle"
+  },
+  "Agent008": {
+    "name": "Business Professor",
+    "type": "professor-agent",
+    "script": "agents/business_professor.py",
+    "description": "Teaches, analyzes and improves SELFIX business strategy",
+    "status": "idle"
+  },
+  "Agent009": {
+    "name": "Mission Guardian",
+    "type": "guardian-agent",
+    "script": "agents/mission_guardian.py",
+    "description": "Monitors SELFIX values, ethics, and agent alignment",
+    "status": "idle"
+  }
+}

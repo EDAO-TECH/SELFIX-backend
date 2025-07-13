@@ -1,0 +1,403 @@
+[
+  {
+    "timestamp": "2025-06-22 11:10:46",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:46",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 11:10:49",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:20:28",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:25:53",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:26:17",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 12:27:04",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 13:15:40",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-22 15:20:36",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:05",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-23 03:00:05",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:05",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:05",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:05",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:00:06",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u26a0\ufe0f Partial or failed rollback."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/trap_logic.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/yin_engine.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\u274c Backup not found for app/core/healer.py."
+  },
+  {
+    "timestamp": "2025-06-23 03:01:02",
+    "event": "\ud83e\uddea Rollback manager engaged"
+  }
+]}
+]

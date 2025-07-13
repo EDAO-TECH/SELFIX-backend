@@ -1,0 +1,8 @@
+{
+  "user@example.com": {
+    "license": "ABC-1234",
+    "services": ["AI_HEALING", "TRAP_LOGIC"],
+    "paid_until": "2025-12-31"
+  }
+}
+

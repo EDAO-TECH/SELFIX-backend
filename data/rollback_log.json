@@ -1,0 +1,7 @@
+[
+  {
+    "timestamp": "2025-05-26T08:10:54.653469",
+    "module": "entropy_fix_cpu",
+    "restored_from": "/opt/SELFIX/backups/entropy_fix_cpu_20250526-081054.bak"
+  }
+]
