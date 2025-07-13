@@ -1,0 +1,29 @@
+functionsDirectoryOrigin = "config"
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/horizons-export-da3adf36-0857-422a-8d8e-bfeb2b33b463/dist"
+publishOrigin = "config"
+commandOrigin = "config"
+base = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/horizons-export-da3adf36-0857-422a-8d8e-bfeb2b33b463"
+command = "npm run build"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
