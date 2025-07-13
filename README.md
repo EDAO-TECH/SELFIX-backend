@@ -1,95 +1,123 @@
+🛠️ SELFIX-backend/README.md
+markdown
+Copy
+Edit
+# SELFIX Backend
 
+The **SELFIX Backend** is the core logic and verification engine behind the SELFIX Trust Framework — a self-healing, logic-verifying system for critical infrastructure. This backend offers healing scripts, antivirus capabilities, license management, trust sealing, and self-recovery features. It powers the operational intelligence behind the frontend interface and CLI.
 
-✦ REVISED PUBLIC DECLARATION
+---
 
-📜 The Ethical Consecration of SmartLicense-X™
-On May 28, 2025, I placed SmartLicense-X™ into the public domain — not because it lacked value, but because it carried too much.
+## 📦 Project Structure
 
-This was not a product launch. It was a consecration — a conscious release of sovereign technology into the commons, anchored by a singular ethic:
+/opt/SELFIX/
+├── selfix/ # Core logic modules and healing engine
+├── antivirus/ # Custom antivirus scanner, quarantine & updater
+├── forgiveness/ # Trust vault storing sealed, verified logic
+├── api/, services/, config/ # Modular services and configurations
+├── start_all.sh # Startup launcher for all services
+├── selfix_precheck.py # Intelligent system readiness check
+├── selfix_smart_start.sh # Smart startup routine
+├── selfix_smart_install.sh # Guided installer with dynamic logic checks
 
-To govern machines with justice — not control.
+yaml
+Copy
+Edit
 
-SmartLicense-X™ is not merely an invention. It is:
+---
 
-a shield against surveillance and coercive computation,
+## ⚙️ Key Features
 
-a framework for karmic accountability in AI systems, and
+- **Healing Engine**: Detects, verifies, and restores critical logic files.
+- **Antivirus Module**: Custom signature-based malware scanner (`selfix_scanner.py`, `selfix_signatures.json`)
+- **License Verification**: SmartLicense-X CLI validation
+- **Trust Vault**: Securely seals and restores known-good logic via CLI and audit metadata
+- **Forgiveness Targets**: Configurable trust file list (`forgiveness_targets.txt`)
+- **Book of Forgiveness**: Stores sealed files, audit logs, and execution hashes
+- **Audit and Logging**: Track all sealing/restoring events and file changes
 
-the ethical core of the SELFIX Digital Healing Engine.
+---
 
-I did not sell it. I did not gate it.
-I gave it — to everyone and to no one.
-Because digital forgiveness is not a market function. It is an infrastructural necessity.
+## 🔐 Self-Healing Capabilities
 
-🛡️ Guardian Protocols & The Book of Forgiveness
-To mark this act, a set of Guardian of Forgiveness NFTs were minted — not as art, but as immutable records of ethical intent.
-These are not for trading. They are proofs — cryptographic receipts of a moral position.
+- `selfix forgive --seal`: Seal logic to trust vault
+- `selfix forgive --verify`: Detect tampering
+- `selfix forgive --restore`: Restore trusted files from vault
+- `selfix heal`: Automatically fix based on sealed trust
 
-Each Guardian bears witness to one truth:
+---
 
-Code can be written to heal. And must be.
+## 🧪 Prerequisites
 
-🏛️ DAO Custodianship & Self-Governance
-SELFIX DAO does not operate as a club or collective.
-It is a custodial body of ethical governance for a post-surveillance internet.
+- Python 3.9+
+- Linux (Debian/Ubuntu recommended)
+- Node.js (if using web control interface)
+- Git, curl, systemd
 
-DAO members do not merely vote. They:
+---
 
-Interpret karmic logic
+## 🛠️ Setup
 
-Protect the trust protocol
+```bash
+# Clone the repository
+git clone https://github.com/EDAO-TECH/SELFIX-backend.git
 
-Steward the evolution of ethical computational law
+# Enter project folder
+cd SELFIX-backend
 
-Joining requires one action:
+# Start setup
+chmod +x selfix_smart_install.sh
+./selfix_smart_install.sh
+🧪 Run Antivirus and Healing Logic
+bash
+Copy
+Edit
+# Run precheck
+python3 selfix_smart_precheck.py
 
-A single act of forgiveness, logged immutably.
-Not performative. Binding.
+# Launch services
+./start_all.sh
+📁 Trust Logic Example (CRITICAL_FILES)
+python
+Copy
+Edit
+CRITICAL_FILES = [
+  "/opt/SELFIX/selfix/engine/healing_manager.py",
+  "/opt/SELFIX/selfix/scripts/selfix_heal.py",
+  "/opt/SELFIX/selfix/scripts/selfix_precheck.py",
+  "/opt/SELFIX/selfix/cli/selfix.py",
+  "/opt/SELFIX/selfix/configs/ai_policy.json"
+]
+🧩 Sealing Trusted Logic
+bash
+Copy
+Edit
+# Tier 1
+selfix forgive --seal all
 
-🧠 About Me
-Teng Zhi Li
-Self-Researcher | Technologist | Inventor
-Author of 6–7 patent filings (2023–2025)
-Architect of the SELFIX Trust-Law AI Protocol
-Inventor of SmartLicense-X™ (PCT/US25/20835)
-Advocate for digital systems that restore, not reduce.
+# Tier 2 (forgiveness_targets.txt)
+selfix forgive --seal /opt/SELFIX/customers/bankcorp/modules/bank_healer.py
+📜 License
+This project is licensed under the SELFIX Ethical License. Contact EDAO-TECH for commercial deployment and licensing terms.
 
-I believe:
+🤝 Contact & Support
+EDAO-TECH
+Email: support@edao.tech
+GitHub: https://github.com/EDAO-TECH
 
-The future of AI is not in data.
-It is in ethics, memory, and spiritual consent.
+yaml
+Copy
+Edit
 
-📂 Access the Protocol
-🗃️ Public Release:
-SmartLicense-X™ v1.0 — GitHub Repository
+---
 
-🌐 Website: https://selfix.pro
-📩 Contact: support@selfix.pro
-👜 Wallet: 0x7268aa99784d84c41ffed420b3730efbc556b8f1
+## 🌐 `SELFIX-frontend/README.md`
 
-⚖️ You may reproduce this statement in full — without permission.
-It is free. Because freedom demands it.
+```markdown
+# SELFIX Frontend
 
+The **SELFIX Frontend** provides a modern web-based interface to interact with the SELFIX backend healing engine, antivirus status, trust vault, and license status. Built with Vite + React and styled using TailwindCSS, this interface enables customers to monitor system health, manage trusted logic, and visualize healing status.
 
-Independent Research & Development:
-- 📈 Derivatives, Index & Option Trading (0DTE to long-dated contracts)
-- 🤖 Python automation + AI system design
-- 🔬 Algorithmic modeling + trust engine prototyping
-- 📚 Authored 6–7 patent filings from 2023–2025
+---
 
-Current Work:
-- 🛡️ Inventor of **SmartLicense-X™** (PCT/US25/20835)
-- 🧬 Creator of the **SELFIX Healing Engine**
-- 👁 Guardian of the **Book of Forgiveness** — an AI-powered, karma-based trust protocol
-- 🏛 Submitted to **WIPO Global Awards** + **BNB Chain Builder Grants**
-
-Mission:
-> To design technologies that heal, not harm — restoring digital ecosystems through ethical code, not control.
-
-
-https://github.com/EDAO-TECH/EDAO-TECH
-
-Contact:
-- 📩 support@selfix.pro
-- 🌐 [https://selfix.pro](https://selfix.pro)
-- 👜 Wallet: `0x7268aa99784d84c41ffed420b3730efbc556b8f1`
+## 📦 Project Structure
