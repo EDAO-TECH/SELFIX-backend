@@ -8,10 +8,10 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/horizons-export-da3adf36-0857-422a-8d8e-bfeb2b33b463/dist"
+publish = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/selfix-frontend/dist"
 publishOrigin = "config"
 commandOrigin = "config"
-base = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/horizons-export-da3adf36-0857-422a-8d8e-bfeb2b33b463"
+base = "/Users/nevermiseed/Desktop/selfix-frontend/horizon/selfix-frontend"
 command = "npm run build"
 
 [build.environment]
