@@ -1,7 +1,22 @@
+# Python cache & environment
 __pycache__/
 *.pyc
-logs/
-*.log
-.idea/
-node_modules/
+*.pyo
+*.pyd
+*.env
 .env
+
+# Logs
+*.log
+logs/
+
+# Downloaded products (should be managed securely)
+downloads/
+licenses/
+
+# Node leftovers (just in case)
+package-lock.json
+node_modules/
+
+# VSCode or editor configs
+.vscode/
