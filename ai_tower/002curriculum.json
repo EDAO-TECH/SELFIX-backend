@@ -1,0 +1,52 @@
+{
+  "Agent002": {
+    "name": "Frontend Builder",
+    "theory": [
+      "Modern UI/UX best practices",
+      "Tailwind CSS syntax",
+      "Vite & Netlify integration",
+      "Accessibility principles"
+    ],
+    "practical": [
+      "Build landing page layout",
+      "Create pricing section",
+      "Integrate contact form"
+    ],
+    "test": [
+      "Can it generate HTML+CSS from markdown layout?",
+      "Does output follow accessibility rules?"
+    ]
+  },
+  "Agent003": {
+    "name": "Apps Engineer",
+    "theory": [
+      "Component-based architecture",
+      "State management basics",
+      "REST API consumption"
+    ],
+    "practical": [
+      "Generate login/signup components",
+      "Connect app to mock backend"
+    ],
+    "test": [
+      "Does the app handle auth edge cases?",
+      "Can it validate form inputs properly?"
+    ]
+  },
+  "Agent006": {
+    "name": "Academic Researcher",
+    "theory": [
+      "Research ethics",
+      "Summarization techniques",
+      "SEO writing"
+    ],
+    "practical": [
+      "Draft About/FAQ sections",
+      "Enrich content with citations"
+    ],
+    "test": [
+      "Does it cite valid sources?",
+      "Can it adapt tone to business branding?"
+    ]
+  }
+}
