@@ -25,3 +25,11 @@ node_modules/
 .env.save.1
 .env
 .env
+
+# Ignore local build artifacts and virtualenv
+*.tar.gz
+venv/
+dist/
+_archive/
+book_of_forgiveness/
+
