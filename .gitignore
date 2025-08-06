@@ -33,3 +33,6 @@ dist/
 _archive/
 book_of_forgiveness/
 
+
+# Ignore local exports
+*.zip
